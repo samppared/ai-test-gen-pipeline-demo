@@ -1,4 +1,4 @@
-# LLM unit test generation pipeline demo
+# AI test generation pipeline demo
 
 This repository is a demo showcasing the integration of AI in development pipelines. Using GitHub Actions and ChatGPT, this project automatically generates unit tests from Python code. The workflow creates a new branch with the recommended unit tests and opens a pull request for review. This demonstration highlights the potential of AI to assist in software development by automating test creation, thus improving efficiency and code quality.
 
